@@ -20,6 +20,9 @@
     
     NSLog(@"--> FirstDome");
     
+    NSLog(@"--> First test");
+
+    
 }
 
 
